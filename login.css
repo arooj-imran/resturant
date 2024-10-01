@@ -1,0 +1,18 @@
+nav{
+    background-color: maroon;
+    font-size: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* width: 300px; */
+    text-align: center;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    text-decoration-color: white;
+}
+.navbaar{
+    margin-top: 40px;
+    color: whitesmoke;
+ }
+ body{
+    background-color:rgba(128, 117, 0, 0.693) ;
+ }

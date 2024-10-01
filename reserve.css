@@ -1,0 +1,58 @@
+nav{
+    background-color: maroon;
+    font-size: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* width: 300px; */
+    text-align: center;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    text-decoration-color: white;
+}
+.navbaar{
+    margin-top: 40px;
+    color: whitesmoke;
+ }
+ body{
+    background-color: rgba(128, 117, 0, 0.693);
+ }
+ h1{
+    text-align: center;
+ }
+ .para{
+    text-align: center;
+    font-size: bold;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ h2{
+    text-align: center;
+    font-weight: bolder;
+ }
+ p{
+    text-align: center;
+    /* display: inline-block; */
+ }
+ .names{
+    display: inline-flex;  
+ }
+button{
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+     border-radius: 5px;
+}
+.center-button{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.features{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px 20px;
+}
+.feature{
+    text-align: center;
+    max-width: 20px;
+}

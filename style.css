@@ -1,0 +1,61 @@
+nav{
+    background-color: maroon;
+    font-size: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* width: 300px; */
+    /* text-align: center; */
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    text-decoration-color: white;
+}
+.navbaar{
+   margin-top: 40px;
+   color: whitesmoke;
+}
+.name{
+    position: absolute;
+    top:40%;
+    left:25%;
+    /* right: 20px; */
+    font-size: 80px;
+    /* font-weight: 5000px;
+    font-display: 1000px; */
+    /* font-size: xx-large; */
+    text-align: center;  
+}
+.hashuchua{
+    position: absolute;
+    top:60%;
+    left:45%;
+    font-size: 24px;
+    text-align: center;  
+    font-style: italic;
+} 
+.do{
+    text-align: center;
+ font-style: italic;
+ font-family: cursive;
+ /* background-color: maroon; */
+ color: whitesmoke;
+ height: 100px;
+}
+.dodo{
+ text-align: center;
+ text-decoration: wavy;
+ list-style: none;
+ /* background-color: maroon; */
+ color: whitesmoke;
+ font-style: italic;
+ font-size: medium;
+}
+ul.li{
+    list-style: none;
+}
+body{
+    background-color: rgba(128, 117, 0, 0.693);
+}
+
+p{
+    text-align: center;
+}

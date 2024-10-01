@@ -1,0 +1,57 @@
+nav{
+    background-color: maroon;
+    font-size: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* width: 300px; */
+    /* text-align: center; */
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    text-decoration-color: white;
+}
+.navbaar{
+   margin-top: 40px;
+   color: whitesmoke;
+}
+.name{
+    position: absolute;
+    top:40%;
+    left:25%;
+    /* right: 20px; */
+    font-size: 80px;
+    /* font-weight: 5000px;
+    font-display: 1000px; */
+    /* font-size: xx-large; */
+    text-align: center; 
+     color: white; 
+     font-style: italic;
+}
+p{
+    position: absolute;
+    top:80%;
+    left:25%;
+    /* right: 20px; */
+    font-size: 50px;
+    /* font-weight: 5000px;
+    font-display: 1000px; */
+    /* font-size: xx-large; */
+    text-align: center; 
+     color:white; 
+     font-style: italic;
+     text-decoration: wavy;
+} 
+.name2{
+    position: absolute;
+    top:110%;
+    left:35%;
+    /* right: 20px; */
+    font-size: 50px;
+    /* font-weight: 5000px;
+    font-display: 1000px; */
+    /* font-size: xx-large; */
+    text-align: center; 
+     color:white; 
+     font-style: italic;
+     text-decoration: wavy; 
+}
+
